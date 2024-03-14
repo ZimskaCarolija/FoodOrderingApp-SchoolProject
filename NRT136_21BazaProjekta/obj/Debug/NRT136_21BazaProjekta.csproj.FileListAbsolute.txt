@@ -1,0 +1,15 @@
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\bin\Debug\NRT136_21BazaProjekta.exe.config
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\bin\Debug\NRT136_21BazaProjekta.exe
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\bin\Debug\NRT136_21BazaProjekta.pdb
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.Form1.resources
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.csproj.GenerateResource.cache
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.exe
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.pdb
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.Pocetna.resources
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.SvePOrudzbine.resources
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.Detaljnije.resources
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.DodavanjeJela.resources
+C:\Users\Aleksa\Desktop\NRT136_21BazaProjekta\obj\Debug\NRT136_21BazaProjekta.Najprodavanije.resources
